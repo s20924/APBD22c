@@ -1,0 +1,16 @@
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.csproj.AssemblyReference.cache
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.AssemblyInfoInputs.cache
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.AssemblyInfo.cs
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.csproj.CoreCompileInputs.cache
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.exe
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.deps.json
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.runtimeconfig.json
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.runtimeconfig.dev.json
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.dll
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\ref\PierwszaApka.dll
+Z:\git\PierwszaApka\PierwszaApka\bin\Debug\net5.0\PierwszaApka.pdb
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.dll
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\ref\PierwszaApka.dll
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.pdb
+Z:\git\PierwszaApka\PierwszaApka\obj\Debug\net5.0\PierwszaApka.genruntimeconfig.cache
