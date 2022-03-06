@@ -1,0 +1,16 @@
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.exe
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.deps.json
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.runtimeconfig.json
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.runtimeconfig.dev.json
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.dll
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\ref\APBD1.1.dll
+Z:\git\APBD1.1\APBD1.1\bin\Debug\net5.0\APBD1.1.pdb
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.csproj.AssemblyReference.cache
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.AssemblyInfoInputs.cache
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.AssemblyInfo.cs
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.csproj.CoreCompileInputs.cache
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.dll
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\ref\APBD1.1.dll
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.pdb
+Z:\git\APBD1.1\APBD1.1\obj\Debug\net5.0\APBD1.1.genruntimeconfig.cache
