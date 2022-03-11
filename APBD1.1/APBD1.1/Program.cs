@@ -14,7 +14,7 @@ namespace APBD1._1
             var websiteURL = args[0];
             if (!(Uri.IsWellFormedUriString(websiteURL, UriKind.RelativeOrAbsolute))) throw new ArgumentException();
 
-            Console.WriteLine(Uri.IsWellFormedUriString(websiteURL, UriKind.RelativeOrAbsolute));
+            //Console.WriteLine(Uri.IsWellFormedUriString(websiteURL, UriKind.RelativeOrAbsolute));
             Console.WriteLine(websiteURL);
 
             var httpClient = new HttpClient();
