@@ -2,7 +2,7 @@
   "profiles": {
     "APBD1.1": {
       "commandName": "Project",
-      "commandLineArgs": "https://pja.edu.pl"
+      "commandLineArgs": "http://pja.edu.pl"
     }
   }
 }

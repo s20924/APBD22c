@@ -12,14 +12,18 @@ namespace APBD1._1
         {
             if (args.Length < 1) throw new ArgumentNullException();
             var websiteURL = args[0];
-            Console.Write(websiteURL);
+            if (!(Uri.IsWellFormedUriString(websiteURL, UriKind.RelativeOrAbsolute))) throw new ArgumentException();
+
+            Console.WriteLine(Uri.IsWellFormedUriString(websiteURL, UriKind.RelativeOrAbsolute));
+            Console.WriteLine(websiteURL);
 
             var httpClient = new HttpClient();
 
             var response = await httpClient.GetAsync(websiteURL);
             //Console.WriteLine(response);
             var content = await response.Content.ReadAsStringAsync();
-            //Console.WriteLine(response);
+            //Console.WriteLine(content);
+            httpClient.Dispose();
 
             var regex = new Regex(@"[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+");
 
@@ -34,11 +38,18 @@ namespace APBD1._1
             {
                 set.Add(item.ToString());
             }
-
-            foreach (var item in set)
+            if (set.Count.Equals(0))
             {
-                Console.WriteLine(item);
+                Console.WriteLine("Brak adresów");
             }
+            else
+            {
+                foreach (var item in set)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+
         }
     }
 }
